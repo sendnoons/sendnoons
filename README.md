@@ -1,4 +1,4 @@
-Hi 👋 My name is Samantha Noon
+Hi 👋🏻 My name is Samantha Noon
 ==============================
 
 Data Analyst and Content Creator
