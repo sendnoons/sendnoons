@@ -8,7 +8,7 @@ Started diving into coding more in 2018, but found a true love for data and all 
 
 * 🌍  I'm based in Nashville
 * ✉️  You can contact me at [codernoon@gmail.com](mailto:codernoon@gmail.com)
-* 🧠  I'm learning SQL
+* 🧠  I'm learning advanced SQL and Python
 * ⚡  As a bonus, my background is in video editing, so I am great with content manipulation and design when needed.
 
 ### Skills
